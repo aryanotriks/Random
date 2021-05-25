@@ -1,5 +1,5 @@
 #Coded by Sayyed Zakarya (fb.me/sayyed.6)
-import os, socket, sys, time, mechanize, itertools, datetime, random, hashlib, re, threading, json, getpass, urllib, cookielib
+import os, socket, sys, time, mechanize, itertools, datetime, random, hashlib, re, threading, json, getpass, urllib, cookielib,concurrent.futures
 from random import randint
 def brute(user, passs):
   try:
