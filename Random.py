@@ -1,8 +1,6 @@
 #Coded by Sayyed Zakarya (fb.me/sayyed.6)
-
-import os, re, requests, concurrent.futures
+import os,re,requests,concurrent.futures
 from random import randint
-
 def brute(user, passs):
   try:
     for pw in passs:
