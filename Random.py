@@ -867,7 +867,6 @@ def lisensi():
 ####login#########
 def login():
     os.system('clear')
-        print logo2
         print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m1.\x1b[1;96m Fast Cloning Without Fb ID\033[1;92m[New Update]"
         time.sleep(0.05)
         print "\033[1;93m-•◈•-\033[1;91m> \033[1;93m2.\x1b[1;94m Mr-Robot   WhatsApp Group   "
